@@ -1,0 +1,11 @@
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-29 TECNOLOGÍA DE LAS COMUNICACIONES II\TPs\UDP\Transmisor\Receptor\bin\Debug\Receptor.exe.config
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-29 TECNOLOGÍA DE LAS COMUNICACIONES II\TPs\UDP\Transmisor\Receptor\bin\Debug\Receptor.exe
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-29 TECNOLOGÍA DE LAS COMUNICACIONES II\TPs\UDP\Transmisor\Receptor\bin\Debug\Receptor.pdb
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-29 TECNOLOGÍA DE LAS COMUNICACIONES II\TPs\UDP\Transmisor\Receptor\obj\Debug\Receptor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-29 TECNOLOGÍA DE LAS COMUNICACIONES II\TPs\UDP\Transmisor\Receptor\obj\Debug\Receptor.Properties.Resources.resources
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-29 TECNOLOGÍA DE LAS COMUNICACIONES II\TPs\UDP\Transmisor\Receptor\obj\Debug\Receptor.csproj.GenerateResource.cache
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-29 TECNOLOGÍA DE LAS COMUNICACIONES II\TPs\UDP\Transmisor\Receptor\obj\Debug\Receptor.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-29 TECNOLOGÍA DE LAS COMUNICACIONES II\TPs\UDP\Transmisor\Receptor\obj\Debug\Receptor.exe
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-29 TECNOLOGÍA DE LAS COMUNICACIONES II\TPs\UDP\Transmisor\Receptor\obj\Debug\Receptor.pdb
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-29 TECNOLOGÍA DE LAS COMUNICACIONES II\TPs\UDP\Transmisor\Receptor\obj\Debug\Receptor.csproj.AssemblyReference.cache
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-29 TECNOLOGÍA DE LAS COMUNICACIONES II\TPs\UDP\Transmisor\Receptor\obj\Debug\Receptor.Form1.resources

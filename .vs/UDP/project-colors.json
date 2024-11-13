@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dcf160a1-8d28-4e17-9c44-b5195d89e053": {
+      "ProjectGuid": "dcf160a1-8d28-4e17-9c44-b5195d89e053",
+      "DisplayName": "Transmisor",
+      "ColorIndex": 0
+    },
+    "4e25bf0c-58a8-404e-825e-f0307a3135b0": {
+      "ProjectGuid": "4e25bf0c-58a8-404e-825e-f0307a3135b0",
+      "DisplayName": "Receptor",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
